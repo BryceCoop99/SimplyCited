@@ -1,32 +1,18 @@
 ### SimplyCited
-SimplyCited is a formatter and checker for APA and MLA style essays. It automates the process of correcting format, in-text citations, and works cited, saving you time and ensuring accurate formatting.
+Automate the process of correcting MLA and APA essays with this tool. It helps you with format correction, in-text citations, works cited generation, and more. Save time and ensure your paper is formatted accurately.
 
 ## Features
 Format Correction: Automatically corrects formatting errors according to APA or MLA style.
-In-Text Citations: Verifies and adjusts in-text citations to comply with APA or MLA guidelines.
+In-Text Citations: Verifies and adjusts in-text citations to meet APA or MLA guidelines.
 Works Cited: Generates a properly formatted Works Cited page based on your references.
-Reference Database: Maintains a comprehensive database of commonly used sources for accurate citations.
 Customization: Customize formatting settings to align with your requirements.
 Real-Time Feedback: Provides instant feedback on formatting and citation errors.
-Plagiarism Detection: Scans your text for potential instances of plagiarism.
-## Installation
-Clone the SimplyCited repository.
-Install the required dependencies.
-Launch SimplyCited.
-Access SimplyCited in your web browser at http://localhost:3000.
-## Usage
-Open SimplyCited in your web browser.
-Upload or copy and paste your essay.
-Select the formatting style (APA or MLA).
-Click "Format" to correct formatting and generate citations.
-Review and make necessary adjustments.
-Download or copy the formatted essay.
-Share your feedback and suggestions!
-## Contributors
-SimplyCited is open-source. Contributions are welcome. Please check our contribution guidelines.
 
-## Support
-If you have any issues, questions, or suggestions, please open an issue.
+## Story
+SimplyCited was created in 1 week with 1 Product Manager and 1 Software Engineer totalling 100+ hours. Final product was presented to a group of 100+ collaborators.
 
+## Team
+# Matt Thompson - Product Manager
+# Bryce Cooper - Software Engineer
 
 Start using SimplyCited today and streamline your essay formatting and citations!
